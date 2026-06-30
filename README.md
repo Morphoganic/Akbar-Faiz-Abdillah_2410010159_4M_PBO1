@@ -1,8 +1,8 @@
 # Proyek Akhir PBO 1 - Simulator Mekanik Penetrasi Tank
 
-Nama: [Nama Anda]
-NPM: [NPM Anda]
-Kelas: [Kelas Anda]
+Nama: [Akbar Faiz Abdillah]
+NPM: [2410010159]
+Kelas: [4M Reg Pagi BJM]
 
 Berikut adalah tabel penilaian mandiri sesuai dengan implementasi kode program:
 
